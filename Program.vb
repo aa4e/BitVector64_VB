@@ -1,4 +1,4 @@
-﻿Imports Orion.MyMath
+﻿Imports MyMath
 
 Public Module Program
 
